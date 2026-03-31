@@ -138,15 +138,4 @@ pip install kagglehub scikit-learn matplotlib seaborn pandas numpy
 - `pandas` / `numpy` — Data manipulation
 - `matplotlib` / `seaborn` — Visualization
 
----
-
-## 👤 Author
-
-**[Your Name Here]**  
-AI/ML Engineering Intern  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
-
----
-
 *This project was completed as part of an AI/ML Engineering Internship program.*
